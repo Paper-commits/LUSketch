@@ -2,7 +2,7 @@
 logs/*
 pcaps/*
 build/*
-WavingSketch/wavingsketch2.h
+WavingSketch/wavingsketch.h
 demo2-ss/*
 CMH/main.cpp
 CMH/Makefile
@@ -12,8 +12,7 @@ demo/result.csv
 *.out
 luSketch/lu_cm.h
 P4/*
-SpaceSaving3/SpaceSaving.h
-SpaceSaving3/SpaceSavingUtils.h
+
 
 
 
